@@ -1,0 +1,65 @@
+# Prerequisites
+*.d
+
+# Object files
+*.i
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.sfb
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.axf
+*.htm
+*.dep
+*.lnp
+*.lst
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Keil project output
+*.uvguix.*
+*.uvgui.*
+*.baseadd
+hardware/split_keyboard_backup/*
